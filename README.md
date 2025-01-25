@@ -20,7 +20,7 @@ A lightweight and scalable backend template designed for small projects and side
 
 Make sure you have the following installed:  
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download)  
-- A compatible database provider (e.g., SQL Server, PostgreSQL, or SQLite).  
+- A compatible EFcore 9.0 database provider (e.g., SQL Server, PostgreSQL, or SQLite).  
 
 ### Installation  
 
